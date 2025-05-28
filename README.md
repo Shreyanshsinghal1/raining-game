@@ -1,4 +1,4 @@
-# 🌧️ Raining Game - React App
+#  Raining Game - React App
 
 This is a simple but visually appealing React app that simulates falling raindrops on a grid. Each drop is randomly generated and animates downward with a soft trail effect.
 
